@@ -1,3 +1,9 @@
+# Alternative
+
+All this proves a point, but [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) makes the whole thing actually usable. **Go check that out instead.**
+
+I probably won't maintain this, since `docker-registry-proxy` is what I'll use for production.
+
 ### What?
 
 An intricate, insecure, and hackish way of caching Docker images from private registries (eg, not from DockerHub).
